@@ -53,7 +53,7 @@ Visualisasi yang dihasilkan dalam proyek ini antara lain:
 
 ## 📄 Cara Mengakses Proyek  
 Kamu dapat melihat hasil lengkap dari proyek ini melalui tautan berikut:  
-- 📘 [Notebook Analisis COVID-19](https://github.com/Sebul1306/DSF39-EDA-Covid/blob/main/Tugas_DSF_39_COVID.ipynb) 
+- 📘 [Notebook Analisis COVID-19](https://github.com/Sebul1306/DSF39-EDA-Covid/blob/main/Tugas%20DSF%2039%20COVID.ipynb)
 - 📽️ [PPT EDA COVID-19](https://github.com/Sebul1306/DSF39-EDA-Covid/blob/main/PPT%20Tugas%20DSF%2039.0-Covid.pdf)
 
 ---
