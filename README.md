@@ -34,10 +34,10 @@ Tujuan dari proyek ini adalah untuk memahami pola dan karakteristik pasien COVID
 
 ## 📁 Struktur Proyek  
 ```
-├── Hasil Analisis Titanic.ipynb   # Notebook analisis EDA
+├── Tugas_DSF_39_COVID.ipynb       # Notebook analisis EDA
 ├── EDA Titanic                    # File presentasi (slide)
-├── Hasil Analisis Titanic.xlsx    # Dataset sudah diperbaiki
-├── Data Titanic.xlsx              # Dataset mentah
+├── Hasil_Analisis_Titanic.xlsx    # Dataset sudah diperbaiki
+├── Data Covid.xlsx                # Dataset mentah
 └── README.md                      # Dokumentasi proyek ini
 ```
 ---
