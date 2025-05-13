@@ -35,8 +35,8 @@ Tujuan dari proyek ini adalah untuk memahami pola dan karakteristik pasien COVID
 ## 📁 Struktur Proyek  
 ```
 ├── Tugas DSF 39 COVID.ipynb       # Notebook analisis EDA
-├── PPT Tugas DSF 39.0             # File presentasi (slide)
-├── Hasil Analisis Covid.xlsx    # Dataset sudah diperbaiki
+├── PPT Tugas DSF 39 Covid         # File presentasi (slide)
+├── Hasil Analisis Covid.xlsx      # Dataset sudah diperbaiki
 ├── Data Covid.xlsx                # Dataset mentah
 └── README.md                      # Dokumentasi proyek ini
 ```
@@ -54,7 +54,7 @@ Visualisasi yang dihasilkan dalam proyek ini antara lain:
 ## 📄 Cara Mengakses Proyek  
 Kamu dapat melihat hasil lengkap dari proyek ini melalui tautan berikut:  
 - 📘 [Notebook Analisis COVID-19](https://github.com/Sebul1306/DSF39-EDA-Covid/blob/main/Tugas%20DSF%2039%20COVID.ipynb)
-- 📽️ [PPT EDA COVID-19](https://github.com/Sebul1306/DSF39-EDA-Covid/blob/main/PPT%20Tugas%20DSF%2039.0-Covid.pdf)
+- 📽️ [PPT EDA COVID-19](https://github.com/Sebul1306/DSF39-EDA-Covid/blob/main/PPT%20Tugas%20DSF%2039%20Covid.pdf)
 
 ---
 
